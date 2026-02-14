@@ -1,0 +1,35 @@
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 24px;
+}
+
+
+
+
+.full-form {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+	justify-content: center;
+	align-items: center;
+}
+
+.reason-choose {
+	display: flex;
+	flex-wrap: wrap;
+	column-gap: 16px;
+	padding: 12px;
+}
+
+
